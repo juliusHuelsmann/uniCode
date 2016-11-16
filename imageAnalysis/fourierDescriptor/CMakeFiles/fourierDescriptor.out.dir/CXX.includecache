@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maulwurf/Dokumente/uniCode/imageAnalysis/fourierDescriptor/fd.h
+
+/home/maulwurf/Dokumente/uniCode/imageAnalysis/fourierDescriptor/main.cpp
+stdlib.h
+-
+iostream
+-
+fd.h
+/home/maulwurf/Dokumente/uniCode/imageAnalysis/fourierDescriptor/fd.h
+
